@@ -15,3 +15,4 @@ You'll also learn how to work with GraphCMS. GraphCMS is a headless content mana
 # about_tech
 # techblog
 "# about_tech" 
+"# tech_update" 
