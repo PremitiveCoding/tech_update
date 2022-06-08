@@ -13,3 +13,4 @@ With featured and recent posts, categories. full markdown articles, author infor
 
 You'll also learn how to work with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
 # about_tech
+# techblog
